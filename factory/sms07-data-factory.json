@@ -1,0 +1,9 @@
+{
+	"name": "sms07-data-factory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e17788ba-47a0-4cc2-8b2f-895e93d7308b",
+		"tenantId": "4757a011-a514-48ac-b45e-26e3645c1013"
+	}
+}
